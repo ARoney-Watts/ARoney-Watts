@@ -11,14 +11,14 @@ body {
     color: pink;
 }
 .skills{
-    background: #FF0056;
+    background: #e1064f;
     color: white;
 }
 .projects{
-    background: #ff40ff;
+    background: #db00db;
     color: navy;
 }
 .contact{
-    background: #03B8;
+    background: rgba(4, 56, 200, 0.533);
     color: yellow;
 }
