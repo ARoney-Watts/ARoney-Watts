@@ -32,6 +32,11 @@ body {
  justify-content: center;
 }
 
+.project h3 {
+    justify-self: center;
+    color: skyblue;
+}
+
 .about{
 display:flex;
 flex-wrap:wrap;
