@@ -1,9 +1,9 @@
 body {
-    background: [slategray];
+    background: slategray;
     font-family: Arial, Helvetica, sans-serif;
     }
     h1 {
-    color: [red];
+    color: red;
     text-align: center;
     }
 .about{
@@ -24,7 +24,7 @@ body {
 }
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
- width: 400px;
+ width: 300px;
  margin: 10px;
  padding: 20px 10px;
  background: indigo; /* pick a color */
@@ -57,4 +57,8 @@ border: 2px solid rgb(126, 14, 201);
     height: 400px;
     border-radius: 10%;
     border: 5px solid rgb(1, 30, 200);
+}
+
+h3{
+    color: skyblue;
 }
