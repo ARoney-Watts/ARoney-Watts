@@ -29,6 +29,7 @@ body {
  padding: 20px 10px;
  background: indigo; /* pick a color */
  border-radius: 25%;
+ justify-content: center;
 }
 
 .about{
