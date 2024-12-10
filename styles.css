@@ -2,7 +2,7 @@ body {
     background: slategray;
     font-family: Arial, Helvetica, sans-serif;
     }
-    h1 {
+    .name {
     color: red;
     text-align: center;
     }
