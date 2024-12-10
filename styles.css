@@ -16,7 +16,7 @@ body {
 }
 .projects{
     background: #db00db;
-    color: navy;
+    color: skyblue;
 }
 .contact{
     background: rgba(4, 56, 200, 0.533);
@@ -24,7 +24,7 @@ body {
 }
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
- width: 10%;
+ width: 35%;
  margin: 10px;
  padding: 20px 10px;
  background: indigo; /* pick a color */
